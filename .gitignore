@@ -43,3 +43,4 @@ tests/venv
 .cache
 
 docs/generated/
+test.sink.txt
