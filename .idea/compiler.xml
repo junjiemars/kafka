@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="api" target="1.7" />
+      <module name="clients" target="1.7" />
+      <module name="connect" target="1.7" />
+      <module name="core" target="1.7" />
+      <module name="file" target="1.7" />
+      <module name="json" target="1.7" />
+      <module name="kafka-examples" target="1.7" />
+      <module name="log4j-appender" target="1.7" />
+      <module name="oracle" target="1.7" />
+      <module name="runtime" target="1.7" />
+      <module name="streams" target="1.7" />
+      <module name="streams-examples" target="1.7" />
+      <module name="tools" target="1.7" />
+      <module name="transforms" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

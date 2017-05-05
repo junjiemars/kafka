@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/api/api.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clients/clients.iml" filepath="$PROJECT_DIR$/.idea/modules/clients/clients.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/connect.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/connect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/file/file.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/file/file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/json/json.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/json/json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/examples/kafka-examples.iml" filepath="$PROJECT_DIR$/.idea/modules/examples/kafka-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/log4j-appender/log4j-appender.iml" filepath="$PROJECT_DIR$/.idea/modules/log4j-appender/log4j-appender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/runtime/runtime.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/runtime/runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/streams/streams.iml" filepath="$PROJECT_DIR$/.idea/modules/streams/streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/streams/examples/streams-examples.iml" filepath="$PROJECT_DIR$/.idea/modules/streams/examples/streams-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tools/tools.iml" filepath="$PROJECT_DIR$/.idea/modules/tools/tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/transforms/transforms.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/transforms/transforms.iml" />
+    </modules>
+  </component>
+</project>
